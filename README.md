@@ -139,7 +139,7 @@ After preprocessing, these features are combined and vectorized into a maximum o
 
 - Add case-insensitive and fuzzy title search.
 - Return similarity scores with each recommendation.
-- Build a Streamlit or web interface.
+- Build a Streamlit or web interface, perferrably a FASTAPI Service
 - Expose the recommender through an API.
 - Persist processed data and similarity results for faster startup.
 - Add movie posters and additional TMDB metadata.
